@@ -1,0 +1,15 @@
+D:\Programming\C#\HLSLGameOfLife\Builds\HLSLGameOfLife.exe
+D:\Programming\C#\HLSLGameOfLife\Builds\Content/GameOfLife.xnb
+D:\Programming\C#\HLSLGameOfLife\Builds\HLSLGameOfLife.dll
+D:\Programming\C#\HLSLGameOfLife\Builds\HLSLGameOfLife.deps.json
+D:\Programming\C#\HLSLGameOfLife\Builds\HLSLGameOfLife.runtimeconfig.json
+D:\Programming\C#\HLSLGameOfLife\Builds\HLSLGameOfLife.pdb
+D:\Programming\C#\HLSLGameOfLife\Builds\MonoGame.Framework.dll
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\linux-x64\native\libopenal.so.1
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\osx\native\libSDL2.dylib
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\osx\native\libopenal.1.dylib
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\win-x64\native\SDL2.dll
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\win-x64\native\soft_oal.dll
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\win-x86\native\SDL2.dll
+D:\Programming\C#\HLSLGameOfLife\Builds\runtimes\win-x86\native\soft_oal.dll
