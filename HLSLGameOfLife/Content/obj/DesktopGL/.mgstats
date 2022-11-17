@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Programming/C#/HLSLGameOfLife/HLSLGameOfLife/Content/../GameOfLife.fx","D:/Programming/C#/HLSLGameOfLife/HLSLGameOfLife/Content/bin/DesktopGL/GameOfLife.xnb","EffectProcessor","CompiledEffectContent",1237,2009,0.3730704

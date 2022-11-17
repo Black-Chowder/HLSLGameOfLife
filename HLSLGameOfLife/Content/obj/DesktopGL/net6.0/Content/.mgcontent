@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programming/C#/HLSLGameOfLife/HLSLGameOfLife/Content/../GameOfLife.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>GameOfLife.fx</File>
+  </DestFiles>
+</SourceFileCollection>

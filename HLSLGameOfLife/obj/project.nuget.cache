@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6eh8bXhl5w2W50zs41RNtEgAMouggXsm66mKIag08Rrly8ro5Rar62RjwEJ11wwbNfkMR05LreQiYR4Uqej8Rw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\HLSLGameOfLife\\HLSLGameOfLife\\HLSLGameOfLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iabla\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\iabla\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
